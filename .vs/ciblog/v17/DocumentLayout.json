@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\ciblog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\views\\posts\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\views\\posts\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\config\\routes.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\config\\routes.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\controllers\\Posts.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\controllers\\Posts.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\models\\Post_model.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\models\\Post_model.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\controllers\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\controllers\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\config\\database.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\config\\database.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\ciblog\\application\\config\\autoload.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application\\config\\autoload.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\views\\posts\\index.php",
+              "RelativeDocumentMoniker": "application\\views\\posts\\index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\views\\posts\\index.php",
+              "RelativeToolTip": "application\\views\\posts\\index.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T14:43:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\controllers\\index.html",
+              "RelativeDocumentMoniker": "application\\controllers\\index.html",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\controllers\\index.html",
+              "RelativeToolTip": "application\\controllers\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-04T14:43:28.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "routes.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\config\\routes.php",
+              "RelativeDocumentMoniker": "application\\config\\routes.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\config\\routes.php",
+              "RelativeToolTip": "application\\config\\routes.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T13:59:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "database.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\config\\database.php",
+              "RelativeDocumentMoniker": "application\\config\\database.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\config\\database.php",
+              "RelativeToolTip": "application\\config\\database.php",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T13:22:20.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "autoload.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\config\\autoload.php",
+              "RelativeDocumentMoniker": "application\\config\\autoload.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\config\\autoload.php",
+              "RelativeToolTip": "application\\config\\autoload.php",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T13:20:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post_model.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\models\\Post_model.php",
+              "RelativeDocumentMoniker": "application\\models\\Post_model.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\models\\Post_model.php",
+              "RelativeToolTip": "application\\models\\Post_model.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T13:02:21.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Posts.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ciblog\\application\\controllers\\Posts.php",
+              "RelativeDocumentMoniker": "application\\controllers\\Posts.php",
+              "ToolTip": "C:\\xampp\\htdocs\\ciblog\\application\\controllers\\Posts.php",
+              "RelativeToolTip": "application\\controllers\\Posts.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-07-04T12:55:31.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

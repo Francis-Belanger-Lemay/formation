@@ -1,0 +1,21 @@
+.post-date
+{
+	background: #f4f4f4;
+	padding: 4px;
+	margin: 3px;
+	display: block;
+}
+.header_container
+{
+	background-color: #CCCCCC;
+
+}
+.col-md-3
+{
+	overflow-wrap: break-word;
+}
+.post-thumb
+{
+	width: 100%;
+}
+
