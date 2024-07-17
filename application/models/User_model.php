@@ -8,7 +8,6 @@
 
 		public function register($enc_password)
 		{
-			print_r($enc_password);
 			// User data array
 			$data = array
 			(
@@ -22,6 +21,23 @@
 			// Insert user into DB
 
 			return $this->db->insert('users', $data);
+		}
+		public function login($username, $password)
+		{
+			// Validate
+			$this->db->where('username', $username);
+			$this->db->where('password', $password);
+
+			$result = $this->db->get('users');
+
+			if($result->num_rows() == 1)
+			{
+				return $result->row(0)->id;
+			}
+			else
+			{
+				return false;
+			}
 		}
 
 		public function check_username_exists($username)

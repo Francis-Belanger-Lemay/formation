@@ -1,5 +1,7 @@
+<?php echo validation_errors(); ?>
+
 <?php echo form_open('users/login'); ?>
-	<div class="row" id="login_div">
+	<div class="row">
 		<div class="col-md-4 col-md-offset-4" >
 			<h1 class="text-center"> <?php echo $title; ?> </h1><br>
 
@@ -7,12 +9,12 @@
 				<input type="text" name="username" class="form-control" placeholder="Enter username" required autofocus>
 			</div>
 			<div class="form-group">
-				<input type="password" name="passsword" class="form-control" placeholder="Enter passsword" required autofocus>
+				<input type="password" name="password" class="form-control" placeholder="Enter passsword" required autofocus>
 			</div>
 
-			<button type="submit" class="btn btn-primary"> Login </button>
+			<button type="submit" class="btn btn-primary btn-block"> Login </button>
 		</div>
 	</div>
 
 
-<?php form_close(); ?>
+<?php echo form_close(); ?>
