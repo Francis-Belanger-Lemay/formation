@@ -16,6 +16,10 @@
 			else
 			{
 				$this->category_model->create_category();
+
+				// Set Message
+				$this->session->set_flashdata('category_created', 'Your category has been created');
+
 				redirect('categories');
 			}
 		}
