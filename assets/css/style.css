@@ -8,7 +8,6 @@
 .header_container
 {
 	background-color: #CCCCCC;
-
 }
 .col-md-3
 {
@@ -19,7 +18,26 @@
 	width: 100%;
 }
 
-.div
+.pagination-links
 {
+	margin: 30px 0;
+}
+a.pagination-links strong
+{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px solid #ccc;
+}
 
+a.pagination-link
+{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px solid #ccc;
+}
+.cat-delete
+{
+	display: inline;
 }

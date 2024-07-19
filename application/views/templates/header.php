@@ -79,4 +79,6 @@
 			<?php echo '<p class="alert alert-success">'.$this->session->flashdata('login_success').'</p>'; ?>
 		<?php elseif($this->session->flashdata('logout_success')): ?>
 			<?php echo '<p class="alert alert-success">'.$this->session->flashdata('logout_success').'</p>'; ?>
+		<?php elseif($this->session->flashdata('category_deleted')): ?>
+			<?php echo '<p class="alert alert-success">'.$this->session->flashdata('category_deleted').'</p>'; ?>
 		<?php endif; ?>
